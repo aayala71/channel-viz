@@ -14,8 +14,8 @@
 
 	var defaultKey		= 'CPFOPijnbfOeix5V4b0HFq0jXZevjJfPyZvTCW02vjXXaAbs', // Unique master Xively API key to be used as a default
 		defaultFeeds	= [128357], // Comma separated array of Xively Feed ID numbers
-		applicationName	= 'Sistema de monitoreo remoto de radiación electromagnética asociada a telefonía celular', // Replaces Xively logo in the header
-		dataDuration	= '1hour', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
+		applicationName	= 'Monitoreo radiación electromagnética', // Replaces Xively logo in the header
+		dataDuration	= '1day', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
 		dataColor		= '0000FF', // CSS HEX value of color to represent data (omit leading #)
 		hideForm		= 1; // To hide input form use value of 1, otherwise set to 0
