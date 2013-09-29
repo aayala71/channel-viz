@@ -13,7 +13,7 @@
 	*/
 
 	var defaultKey		= 'CPFOPijnbfOeix5V4b0HFq0jXZevjJfPyZvTCW02vjXXaAbs', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [128357], // Comma separated array of Xively Feed ID numbers
+		defaultFeeds	= [128357!EMF], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Monitoreo radiación electromagnética', // Replaces Xively logo in the header
 		dataDuration	= '1day', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
