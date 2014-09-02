@@ -12,8 +12,8 @@
 		hideForm		= 0;
 	*/
 
-	var defaultKey		= 'CPFOPijnbfOeix5V4b0HFq0jXZevjJfPyZvTCW02vjXXaAbs', // Unique master Xively API key to be used as a default
-		defaultFeeds	= [128357], // Comma separated array of Xively Feed ID numbers
+	var defaultKey		= '4BY9s9KqRCNUZ47TuRwfNkmywMm5wPm15KotgO88KOYjoN8O', // Unique master Xively API key to be used as a default
+		defaultFeeds	= [1188451152], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Monitoreo radiación electromagnética', // Replaces Xively logo in the header
 		dataDuration	= '6hours', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 0, // Default interval for data to be displayed (in seconds)
